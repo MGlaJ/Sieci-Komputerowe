@@ -1,0 +1,30 @@
+a) informacja o wszystkich urządzeniach sieciowych, 
+   o tym, czy są podłączone aktualnie do sieci, 
+   o adresie IP, o masce podsieci (adresu),
+   o domyślnej bramie sieciowej
+
+b) dostajemy dodatkowo informacje o konfiguracji Windows IP,
+   oraz więcej informacji o każdym z urządzeń sieciowych,
+   opis, adres fizyczny (zakodowany producent i numer seryjny), 
+   informacje o serwerach DNS
+
+c) tak, za pomocą ipconfig /relase i ipconfig /renew
+
+d) Adres IP zostaje przydzielony klientowi na określony przez serwer czas, tzw. okres dzierżawy (ang. lease) 
+   i jest regularnie odnawiany. Po upływie połowy okresu dzierżawy, na który został przydzielony adres IP, klient 
+   wysyła do serwera żądanie odnowienia tego czasu. 
+  Czas dzierżawy jest to czas korzystania z przypisanego użytkownikowi adresu IP. Czas trwania dzierżawy można zmienić zgodnie z 
+  konkretnymi wymaganiami. W trakcie dzierżawy serwer DHCP nie może przypisać tego samego adresu IP innemu klientowi.
+
+e) sprawdza wpisy w DNS, 
+ zwraca wszystkie zapytania jakie były wykonane niezależnie od używanej przeglądarki internetowej oraz trybu w jakim pracowała.
+
+f) adres MAC to adres fizyczny można go odczytać z wiersza poleceń za pomocą komendy ipconfig /all (physical address)
+   można również go ustalić w centrum sieci i udostępniania
+
+g) ipv4 wykorzystuje 4 1bajtowe liczby dziesiętne oddzielone kropką
+   ipv6 używa liczb szesnastkowych, które są oddzielone dwukropkami i zawierają 8 części po 4 cyfry każda.
+ za pomocą polecenia ipconfig /all uzyskujemy adres ipv6
+
+h) adres Mac to adres fizyczny
+
