@@ -1,0 +1,30 @@
+3.1
+a) 	
+	tracert 			->śledzi drogę do podanego adresu (maksymalnie 30 przeskoków)
+	tracert -d 			->jw tylko nie podaje nazw hostów tylko adresy IP
+	tracert -h maks_przes		->maksymalna liczba przeskoków w poszukiwaniu celu
+	tracert -j lista_hostów		->swobodna trasa wg listy hostów (tylko IPv4)
+	tracert -w limit_czasu		->limit czasu oczekiwania na odpowiedź w milisekundach
+
+b)	
+	Sposób przedstawiania informacji o drodze pokonywanej przez pakiet: 
+	Informacje prezentowane są w pięciu kolumnach:
+
+1. kolumna
+liczba kolejna przeskoku
+
+			kolumny 2-4	
+			-> czas RTT (round trip time) dla trzech pakietów 
+
+									5. kolumna
+									-> adres IP i jeśli jest to możliwe to nazwa domeny
+
+c)
+
+	Opcja tracert dostępna online śledzi trasę do wybranego przez nas adresu.
+	Punktem startowym jest strona, z której korzystamy do śledzenia pakietów.
+	centralops.net(Dallas, Texas, USA) 169.254.158.58
+
+d)
+	Najdłuższe znalezione ścieżki wynosiły 16 węzłów (www.centralops.net)
+	oraz 13 węzłów (www.doz.pl)
