@@ -1,0 +1,36 @@
+Notatki z ćwiczeń 05/03/2023
+Gwiazda - szafa - kable do każdego komputera
+ping
+pathping
+1,5tys bitów pakiet
+fragmentacja pakietów
+maksymalna dopuszczalna liczba przeskoków 15
+powyżej 15, pakiet gaśnie (czas życia - żeby pakiety nie krążyły po sieci w nieskończoność)
+
+jak nie jest napisane inaczej to korzystamy z IPv4
+____________________________________________________________________________________________________
+2.1
+a) 	ping -t odpytuje określonego hosta do czasu zatrzymania (CTRL+BREAK ->przejrzenie 
+		statystyk i kontynuacja; CTRL+C	 -> zakończenie)
+	ping -a tłumaczy adresy na nazwy hostów
+	ping -n (1-4294967295) liczba wysyłanych żądań echa
+	ping -i (1-255) TTL czas wygaśnięcia
+	ping -r (1-9) rejestruje trasę dla podanej liczby przeskoków (tylko IPv4)
+
+	Czas odpowiedzi zdalnego komputera na wysłane zapytania: 4-5ms
+   	Za pomocą polecenia ping testujemy jakość połączenia sieciowego. 
+   	Wysyłane są pakiety diagnostyczne. Na podstawie informacji o liczbie pakietów
+	wysłanych i odebranych oraz czasu w jakim się to odbyło możemy wnioskować o stanie 
+	sieci.
+b)	Uzyskaliśmy szybszy czas odpowiedzi. Odpowiedź była natychmiastowa.
+c)	Pakiety wiadomości ICMP są wysyłane z:
+	Address lookup
+		canonical name	wmii-a3-17.uwm.edu.pl.
+		aliases	
+		addresses	213.184.8.154
+d)	Polecenie pathping jest dostępne. Wykonanie polecenia pathping trwa znacznie dłużej
+	niż wykonanie polecenia ping. Jednocześnie uzyskane informacje są bardziej szczegółowe.
+	Otrzymujemy informacje o kolejnych skokach i o tym, co działo się z pakietami (ile
+	z nich zostało dostarczone, a ile utracone) na kolejnych etapach. Śledzone jest
+	maksymalnie do 30 skoków. W naszym przypadku było ich 9. Czas przetwarzania statystyk
+	wyniósł 225 sekund.
