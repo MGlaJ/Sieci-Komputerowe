@@ -1,0 +1,567 @@
+No.     Time           Source                Destination           Protocol Length Info
+      4 1.857758       192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=72/18432, ttl=1 (no response found!)
+
+Frame 4: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 1.857911       192.168.13.1          192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 5: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 1.858542       192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=73/18688, ttl=1 (no response found!)
+
+Frame 6: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 1.858720       192.168.13.1          192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 7: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 1.859306       192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=74/18944, ttl=1 (no response found!)
+
+Frame 8: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 1.859431       192.168.13.1          192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 9: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 1.861105       192.168.13.1          192.168.13.17         ICMP     70     Destination unreachable (Host unreachable)
+
+Frame 11: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 7.439406       192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=75/19200, ttl=2 (no response found!)
+
+Frame 26: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 7.439766       213.184.8.1           192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 27: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 213.184.8.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 7.441505       192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=76/19456, ttl=2 (no response found!)
+
+Frame 28: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 7.441812       213.184.8.1           192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 29: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 213.184.8.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 7.442543       192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=77/19712, ttl=2 (no response found!)
+
+Frame 30: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 7.442862       213.184.8.1           192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 31: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 213.184.8.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 7.444533       192.168.13.1          192.168.13.17         ICMP     70     Destination unreachable (Host unreachable)
+
+Frame 33: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 7.481562       213.184.8.1           192.168.13.17         ICMP     70     Destination unreachable (Port unreachable)
+
+Frame 37: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 213.184.8.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 8.993781       213.184.8.1           192.168.13.17         ICMP     70     Destination unreachable (Port unreachable)
+
+Frame 42: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 213.184.8.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 10.497877      213.184.8.1           192.168.13.17         ICMP     70     Destination unreachable (Port unreachable)
+
+Frame 50: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 213.184.8.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 13.024003      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=78/19968, ttl=3 (no response found!)
+
+Frame 58: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 13.024854      10.1.3.1              192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 59: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 10.1.3.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 13.025483      10.1.3.1              192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 60: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 10.1.3.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 13.025742      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=79/20224, ttl=3 (no response found!)
+
+Frame 61: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 13.026572      10.1.3.1              192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 62: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 10.1.3.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 13.027152      10.1.3.1              192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 63: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 10.1.3.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 13.027346      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=80/20480, ttl=3 (no response found!)
+
+Frame 64: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 13.028200      10.1.3.1              192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 65: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 10.1.3.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 13.028543      10.1.3.1              192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 66: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 10.1.3.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 13.030836      192.168.13.1          192.168.13.17         ICMP     70     Destination unreachable (Host unreachable)
+
+Frame 68: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     83 18.635569      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=81/20736, ttl=4 (no response found!)
+
+Frame 83: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     84 18.637377      10.1.1.194            192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 84: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 10.1.1.194, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     85 18.639439      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=82/20992, ttl=4 (no response found!)
+
+Frame 85: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     86 18.643760      10.1.1.194            192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 86: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 10.1.1.194, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     87 18.645776      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=83/21248, ttl=4 (no response found!)
+
+Frame 87: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     88 18.647570      10.1.1.194            192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 88: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 10.1.1.194, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     90 18.650384      192.168.13.1          192.168.13.17         ICMP     70     Destination unreachable (Host unreachable)
+
+Frame 90: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    103 24.233173      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=84/21504, ttl=5 (no response found!)
+
+Frame 103: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    104 24.254341      212.191.224.41        192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 104: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 212.191.224.41, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    105 24.256452      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=85/21760, ttl=5 (no response found!)
+
+Frame 105: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    106 24.289677      212.191.224.41        192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 106: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 212.191.224.41, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    107 24.291729      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=86/22016, ttl=5 (no response found!)
+
+Frame 107: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    108 24.303253      212.191.224.41        192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 108: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 212.191.224.41, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    110 24.306129      192.168.13.1          192.168.13.17         ICMP     70     Destination unreachable (Host unreachable)
+
+Frame 110: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    124 29.859982      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=87/22272, ttl=6 (no response found!)
+
+Frame 124: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    125 29.870500      212.191.224.18        192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 125: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 212.191.224.18, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    126 29.872624      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=88/22528, ttl=6 (no response found!)
+
+Frame 126: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    127 29.884403      212.191.224.18        192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 127: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 212.191.224.18, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    128 29.885670      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=89/22784, ttl=6 (no response found!)
+
+Frame 128: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    129 29.897010      212.191.224.18        192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 129: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 212.191.224.18, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    131 29.899759      192.168.13.1          192.168.13.17         ICMP     70     Destination unreachable (Host unreachable)
+
+Frame 131: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    144 35.470294      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=90/23040, ttl=7 (no response found!)
+
+Frame 144: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    145 35.481257      150.254.163.27        192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 145: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.163.27, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    146 35.483410      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=91/23296, ttl=7 (no response found!)
+
+Frame 146: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    147 35.494285      150.254.163.27        192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 147: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.163.27, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    148 35.496254      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=92/23552, ttl=7 (no response found!)
+
+Frame 148: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    149 35.507041      150.254.163.27        192.168.13.17         ICMP     70     Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 149: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.163.27, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    151 35.509743      192.168.13.1          192.168.13.17         ICMP     70     Destination unreachable (Host unreachable)
+
+Frame 151: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    170 41.080778      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=93/23808, ttl=8 (no response found!)
+
+Frame 170: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    171 41.092275      150.254.4.68          192.168.13.17         ICMP     134    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 171: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.4.68, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    172 41.094301      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=94/24064, ttl=8 (no response found!)
+
+Frame 172: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    173 41.105544      150.254.4.68          192.168.13.17         ICMP     134    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 173: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.4.68, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    174 41.107369      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=95/24320, ttl=8 (no response found!)
+
+Frame 174: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    175 41.118101      150.254.4.68          192.168.13.17         ICMP     134    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 175: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.4.68, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    177 41.120959      192.168.13.1          192.168.13.17         ICMP     70     Destination unreachable (Host unreachable)
+
+Frame 177: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    191 46.692714      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=96/24576, ttl=9 (no response found!)
+
+Frame 191: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    192 46.703928      150.254.6.58          192.168.13.17         ICMP     134    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 192: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.6.58, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    193 46.706147      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=97/24832, ttl=9 (no response found!)
+
+Frame 193: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    194 46.717259      150.254.6.58          192.168.13.17         ICMP     134    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 194: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.6.58, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    195 46.718579      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=98/25088, ttl=9 (no response found!)
+
+Frame 195: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    196 46.729808      150.254.6.58          192.168.13.17         ICMP     134    Time-to-live exceeded (Time to live exceeded in transit)
+
+Frame 196: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.6.58, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    198 46.732693      192.168.13.1          192.168.13.17         ICMP     70     Destination unreachable (Host unreachable)
+
+Frame 198: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 192.168.13.1, Dst: 192.168.13.17
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    211 52.332812      192.168.13.17         150.254.11.6          ICMP     106    Echo (ping) request  id=0x0001, seq=99/25344, ttl=10 (no response found!)
+
+Frame 211: 106 bytes on wire (848 bits), 106 bytes captured (848 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd), Dst: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f)
+Internet Protocol Version 4, Src: 192.168.13.17, Dst: 150.254.11.6
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    213 55.449943      150.254.6.58          192.168.13.17         ICMP     134    Destination unreachable (Host unreachable)
+
+Frame 213: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface \Device\NPF_{5ABA326B-C4F4-4AC5-9AF0-EE8B7DA1D03B}, id 0
+Ethernet II, Src: fc:f9:38:a3:a1:4f (fc:f9:38:a3:a1:4f), Dst: ASUSTekC_cd:89:dd (bc:ae:c5:cd:89:dd)
+Internet Protocol Version 4, Src: 150.254.6.58, Dst: 192.168.13.17
+Internet Control Message Protocol
